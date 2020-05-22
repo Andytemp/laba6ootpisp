@@ -1,0 +1,5 @@
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\AdapteeProcessor\bin\Debug\AdapteeProcessor.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\AdapteeProcessor\bin\Debug\AdapteeProcessor.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\AdapteeProcessor\obj\Debug\AdapteeProcessor.csproj.CoreCompileInputs.cache
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\AdapteeProcessor\obj\Debug\AdapteeProcessor.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\AdapteeProcessor\obj\Debug\AdapteeProcessor.pdb

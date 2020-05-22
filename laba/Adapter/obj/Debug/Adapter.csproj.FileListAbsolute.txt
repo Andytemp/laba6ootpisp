@@ -1,0 +1,9 @@
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\Adapter\bin\Debug\Adapter.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\Adapter\bin\Debug\Adapter.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\Adapter\bin\Debug\BasePlugins.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\Adapter\bin\Debug\BasePlugins.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\Adapter\obj\Debug\Adapter.csproj.CopyComplete
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\Adapter\obj\Debug\Adapter.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\Adapter\obj\Debug\Adapter.pdb

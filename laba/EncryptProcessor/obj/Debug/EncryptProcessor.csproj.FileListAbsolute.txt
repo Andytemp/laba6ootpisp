@@ -1,0 +1,11 @@
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\AdapteeProcessor\bin\Debug\AdapteeProcessor.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\AdapteeProcessor\bin\Debug\AdapteeProcessor.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\AdapteeProcessor\obj\Debug\EncryptProcessor.csproj.CoreCompileInputs.cache
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\AdapteeProcessor\obj\Debug\AdapteeProcessor.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\AdapteeProcessor\obj\Debug\AdapteeProcessor.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\EncryptProcessor\obj\Debug\EncryptProcessor.csproj.CoreCompileInputs.cache
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\EncryptProcessor\bin\Debug\EncryptProcessor.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\EncryptProcessor\bin\Debug\EncryptProcessor.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\EncryptProcessor\obj\Debug\EncryptProcessor.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\EncryptProcessor\obj\Debug\EncryptProcessor.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\EncryptProcessor\obj\Debug\EncryptProcessor.csprojAssemblyReference.cache

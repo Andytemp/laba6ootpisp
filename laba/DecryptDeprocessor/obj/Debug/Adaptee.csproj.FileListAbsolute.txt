@@ -1,0 +1,6 @@
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\Adaptee\bin\Debug\Adaptee.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\Adaptee\bin\Debug\Adaptee.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\Adaptee\obj\Debug\Adaptee.csprojAssemblyReference.cache
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\Adaptee\obj\Debug\Adaptee.csproj.CoreCompileInputs.cache
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\Adaptee\obj\Debug\Adaptee.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\Adaptee\obj\Debug\Adaptee.pdb

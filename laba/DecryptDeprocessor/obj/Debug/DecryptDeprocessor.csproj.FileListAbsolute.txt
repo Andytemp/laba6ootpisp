@@ -1,0 +1,11 @@
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\AdapteeDeprocessor\bin\Debug\Adaptee.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\AdapteeDeprocessor\bin\Debug\Adaptee.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\AdapteeDeprocessor\obj\Debug\DecryptDeprocessor.csproj.CoreCompileInputs.cache
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\AdapteeDeprocessor\obj\Debug\Adaptee.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\AdapteeDeprocessor\obj\Debug\Adaptee.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\DecryptDeprocessor\obj\Debug\DecryptDeprocessor.csproj.CoreCompileInputs.cache
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\DecryptDeprocessor\bin\Debug\DecryptDeprocessor.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\DecryptDeprocessor\bin\Debug\DecryptDeprocessor.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\DecryptDeprocessor\obj\Debug\DecryptDeprocessor.dll
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\DecryptDeprocessor\obj\Debug\DecryptDeprocessor.pdb
+D:\University\2course\4semester\labs\OOTPiSP\laba6\laba\DecryptDeprocessor\obj\Debug\DecryptDeprocessor.csprojAssemblyReference.cache

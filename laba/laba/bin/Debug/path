@@ -1,0 +1,158 @@
+{
+  "$type": "Drawer.ShapesList, laba",
+  "list": {
+    "$type": "System.Collections.Generic.List`1[[Shapes.Figure, laba]], mscorlib",
+    "$values": [
+      {
+        "$type": "Shapes.Line, laba",
+        "Name": "Line",
+        "Startpoint": "76, 71",
+        "Endpoint": "295, 227",
+        "Vertices": {
+          "$type": "System.Drawing.Point[], System.Drawing",
+          "$values": [
+            "76, 71",
+            "295, 227"
+          ]
+        },
+        "Width": 219,
+        "Height": 156,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      },
+      {
+        "$type": "Shapes.Line, laba",
+        "Name": "Line",
+        "Startpoint": "419, 109",
+        "Endpoint": "-18, 195",
+        "Vertices": {
+          "$type": "System.Drawing.Point[], System.Drawing",
+          "$values": [
+            "419, 109",
+            "-18, 195"
+          ]
+        },
+        "Width": -437,
+        "Height": 86,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      },
+      {
+        "$type": "Shapes.Rectangle, laba",
+        "Name": "Rectangle",
+        "Startpoint": "422, 168",
+        "Endpoint": "580, 282",
+        "Vertices": {
+          "$type": "System.Drawing.Point[], System.Drawing",
+          "$values": [
+            "422, 168",
+            "580, 168",
+            "580, 282",
+            "422, 282"
+          ]
+        },
+        "Width": 158,
+        "Height": 114,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      },
+      {
+        "$type": "Shapes.Square, laba",
+        "Name": "Square",
+        "Startpoint": "484, 183",
+        "Endpoint": "635, 388",
+        "Vertices": {
+          "$type": "System.Drawing.Point[], System.Drawing",
+          "$values": [
+            "484, 183",
+            "635, 183",
+            "635, 334",
+            "484, 334"
+          ]
+        },
+        "Width": 151,
+        "Height": 151,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      },
+      {
+        "$type": "Shapes.Circle, laba",
+        "BaseRectangle": {
+          "$type": "Shapes.Square, laba",
+          "Name": "Square",
+          "Startpoint": "483, 186",
+          "Endpoint": "883, 586",
+          "Vertices": {
+            "$type": "System.Drawing.Point[], System.Drawing",
+            "$values": [
+              "483, 186",
+              "883, 186",
+              "883, 586",
+              "483, 586"
+            ]
+          },
+          "Width": 400,
+          "Height": 400,
+          "ShapeColor": "Red",
+          "Rotation": 0
+        },
+        "Name": "Circle",
+        "Startpoint": "483, 186",
+        "Endpoint": "644, 335",
+        "Width": 400,
+        "Height": 400,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      },
+      {
+        "$type": "Shapes.Pentagon, laba",
+        "Name": "Pentagon",
+        "Startpoint": "432, 390",
+        "Endpoint": "170, 263",
+        "Vertices": {
+          "$type": "System.Drawing.Point[], System.Drawing",
+          "$values": [
+            "301, 390",
+            "170, 340",
+            "222, 263",
+            "379, 263",
+            "432, 340"
+          ]
+        },
+        "Width": -262,
+        "Height": -127,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      },
+      {
+        "$type": "Shapes.Ellipse, laba",
+        "BaseRectangle": {
+          "$type": "Shapes.Rectangle, laba",
+          "Name": "Rectangle",
+          "Startpoint": "691, 102",
+          "Endpoint": "91, 33",
+          "Vertices": {
+            "$type": "System.Drawing.Point[], System.Drawing",
+            "$values": [
+              "691, 102",
+              "91, 102",
+              "91, 33",
+              "691, 33"
+            ]
+          },
+          "Width": -600,
+          "Height": -69,
+          "ShapeColor": "Red",
+          "Rotation": 0
+        },
+        "Name": "Ellipse",
+        "Startpoint": "691, 102",
+        "Endpoint": "419, 33",
+        "Width": -600,
+        "Height": -69,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      }
+    ]
+  }
+}

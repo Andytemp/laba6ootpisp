@@ -1,0 +1,37 @@
+{
+  "$type": "Drawer.ShapesList, laba",
+  "list": {
+    "$type": "System.Collections.Generic.List`1[[Shapes.Figure, laba]], mscorlib",
+    "$values": [
+      {
+        "$type": "Shapes.Circle, laba",
+        "BaseRectangle": {
+          "$type": "Shapes.Square, laba",
+          "Name": "Square",
+          "Startpoint": "10, 10",
+          "Endpoint": "200, 200",
+          "Vertices": {
+            "$type": "System.Drawing.Point[], System.Drawing",
+            "$values": [
+              "10, 10",
+              "200, 10",
+              "200, 200",
+              "10, 200"
+            ]
+          },
+          "Width": 190,
+          "Height": 190,
+          "ShapeColor": "Red",
+          "Rotation": 0
+        },
+        "Name": "Circle",
+        "Startpoint": "10, 10",
+        "Endpoint": "200, 200",
+        "Width": 190,
+        "Height": 190,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      }
+    ]
+  }
+}

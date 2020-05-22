@@ -1,0 +1,27 @@
+meme hehe boi{
+  "$type": "Drawer.ShapesList, Figures",
+  "list": {
+    "$type": "System.Collections.Generic.List`1[[Shapes.Figure, Figures]], mscorlib",
+    "$values": [
+      {
+        "$type": "Shapes.Romb, Figures",
+        "Name": "Romb",
+        "Startpoint": "181, 220",
+        "Endpoint": "659, 388",
+        "Vertices": {
+          "$type": "System.Drawing.Point[], System.Drawing",
+          "$values": [
+            "420, 220",
+            "659, 304",
+            "420, 388",
+            "181, 304"
+          ]
+        },
+        "Width": 478,
+        "Height": 168,
+        "ShapeColor": "Red",
+        "Rotation": 0
+      }
+    ]
+  }
+}hehe end hehe
